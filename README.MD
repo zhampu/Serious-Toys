@@ -1,4 +1,4 @@
 
 # Raspberry Pi I2C
 
-## https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial
+https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial
