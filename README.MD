@@ -5,9 +5,13 @@ https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial
 
 http://www.instructables.com/id/Raspberry-Pi-ADXL345-3-Axis-Accelerometer-Python-T/
 
+https://www.youtube.com/watch?v=yBkpHWGLnzA
+
 https://www.raspberrypi.org/forums/viewtopic.php?t=126045
 
 http://www.instructables.com/id/3-Axis-Accelerometer-ADXL345-With-Raspberry-Pi-Usi/
+
+# Grove Pi
 
 https://github.com/DexterInd/GrovePi/
 
