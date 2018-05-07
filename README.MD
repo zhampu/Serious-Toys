@@ -11,6 +11,8 @@ https://www.raspberrypi.org/forums/viewtopic.php?t=126045
 
 http://www.instructables.com/id/3-Axis-Accelerometer-ADXL345-With-Raspberry-Pi-Usi/
 
+
+
 # Grove Pi
 
 https://github.com/DexterInd/GrovePi/
@@ -18,7 +20,7 @@ https://github.com/DexterInd/GrovePi/
 https://www.dexterindustries.com/GrovePi/supported-sensors/
 
 
-# Buy screen
+# Buy screen, accelerometer and Raspberry
 
 https://www.pi-shop.ch/display
 
