@@ -31,6 +31,9 @@ https://github.com/DexterInd/GrovePi/
 
 https://www.dexterindustries.com/GrovePi/supported-sensors/
 
+# Accelerometer
+
+https://github.com/mwilliams03/Raspberry-Gyro-Acc
 
 # Buy screen, accelerometer and Raspberry
 
