@@ -13,6 +13,16 @@ http://www.instructables.com/id/3-Axis-Accelerometer-ADXL345-With-Raspberry-Pi-U
 
 
 
+# Sense Hat
+
+https://www.pi-shop.ch/raspberry-pi-sense-hat?src=raspberrypi
+
+https://projects.raspberrypi.org/en/projects/sense-hat-pong/11
+
+https://www.raspberrypi.org/products/sense-hat/
+
+https://buyzero.de/products/raspberry-pi-sense-hat-lage-druck-feuchtigkeits-und-temperatursensoren?src=raspberrypi
+
 # Grove Pi
 
 https://github.com/DexterInd/GrovePi/
