@@ -23,7 +23,7 @@ float AccelMaxY = 0;
 float AccelMinZ = 0;
 float AccelMaxZ = 0;
 // char array to print to the screen
-char sensorPrintout[4];
+char sensorPrintout[16];
 
 // ACCELEROMETER SENSOR INCLUDES
 #include <Wire.h>
@@ -52,7 +52,7 @@ Adafruit_ADXL345_Unified accel = Adafruit_ADXL345_Unified(12345);
 TFT TFTscreen = TFT(cs, dc, rst);
 
 void setup() {
-  accel.setRange(ADXL345_RANGE_16_G);
+  
   // Put this line at the beginning of every sketch that uses the GLCD:
   TFTscreen.begin();
 
@@ -76,12 +76,14 @@ void setup() {
   //  Serial.println("");
 
   /* Initialise the sensor */
-  //  if (!accel.begin())
-  //  {
-  //    /* There was a problem detecting the ADXL345 ... check your connections */
-  //    Serial.println("Ooops, no ADXL345 detected ... Check your wiring!");
-  //    while (1);
-  //  }
+    if (!accel.begin())
+    {
+      /* There was a problem detecting the ADXL345 ... check your connections */
+      Serial.println("Ooops, no ADXL345 detected ... Check your wiring!");
+      while (1);
+    }
+
+  accel.setRange(ADXL345_RANGE_16_G);
 }
 
 void loop() {
@@ -96,9 +98,14 @@ void loop() {
   TFTscreen.stroke(255, 255, 255);
   //String sensorVal = String(analogRead(A0));
   String sensorVal = String((float)event.acceleration.y);
-
+  Serial.print(event.acceleration.x);
+  Serial.print("\t");
+  Serial.print(event.acceleration.y);
+  Serial.print("\t");
+  Serial.println(event.acceleration.z);
+  
   // convert theeading to a char array
-  sensorVal.toCharArray(sensorPrintout, 4);
+  sensorVal.toCharArray(sensorPrintout, sizeof(sensorPrintout));
   TFTscreen.text(sensorPrintout, 0, 0);
   delay(200);
 
