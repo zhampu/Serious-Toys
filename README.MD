@@ -35,6 +35,6 @@ https://www.adafruit.com/product/2465
 
 # Schematic
 
-[![photo of assembled board](hardware/Serious_Toys_bb.jpg)](https://oshpark.com/shared_projects/3KynIVn6)
+![photo of assembled board](hardware/Serious_Toys_bb.jpg)
 
 
