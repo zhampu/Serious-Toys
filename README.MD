@@ -1,7 +1,9 @@
 
 # Serious Toys
-Trophy design by Carla Marceau (https://portfolio) & Juan Gomez (https://juangomez.co) [Pervasive Displays](http://www.pervasivedisplays.com/products#iTC):
- > The Simplest Way To Start Playing With A Fascinating New Low-Power Screen!
+Trophy design by Carla Marceau (https://portfolio) & Juan Gomez (https://juangomez.co)
+ > Play as a way to (re)create memories of a successful and gratifying moment. Playfulness can help human memory now days give back the feeling or sensation that one has lived before.
+The winners of GSGS 2018  will be awarded a trophy which they can interact daily as well as hack it from the inside to make it their own.
+The trophy will take shape as a totem which users can play with and not only put as a decoration. The modularity of its pieces creates an infinite combination of shapes for creating a new object every time the winner interacts with it.
 
 [![photo of assembled board](images/teensy-epaper-shield-small.png)](https://oshpark.com/shared_projects/3KynIVn6)
 
