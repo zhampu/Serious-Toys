@@ -28,6 +28,10 @@ https://store.arduino.cc/arduino-micro
 
 https://www.amazon.com/Dromida-3-7V-350mAh-Battery-Camera-Quadcopter/dp/B01MT3M525
 
+# Battery booster
+
+https://www.adafruit.com/product/2465
+
 
 # Schematic
 
