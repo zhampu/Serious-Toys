@@ -37,5 +37,5 @@ https://www.adafruit.com/product/2465
 
 ![photo of assembled board](hardware/Serious_Toys_bb.jpg)
 
-Big thanks to Gordan Savičić and Pierre Rossel 
+Big thanks to Gordan Savičić (https://github.com/fleshgordo) and Pierre Rossel 
 
