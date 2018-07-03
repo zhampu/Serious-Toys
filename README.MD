@@ -7,53 +7,26 @@ The trophy will take shape as a totem which users can play with and not only put
 
 ![photo of trophy rendering](images/Trophee_visualisation.jpg)
 
-## OSH Park Shared Project
-* [Teensy e-Paper shield](https://oshpark.com/shared_projects/3KynIVn6)
-
-[![PCB preview](images/small-pcb-top-bottom.png)](https://oshpark.com/shared_projects/3KynIVn6)
-
-## Blog posts
-* [Teensy E-Paper shield](https://blog.oshpark.com/2016/08/27/teensy-e-paper-shield/)
-* [Teensy E-Paper shield update](https://blog.oshpark.com/2016/09/07/teensy-e-paper-shield-update/)
-
-## Hackaday.io project
-* [Teensy E-Paper Adapter Board](https://hackaday.io/project/13327-teensy-e-paper-adapter-board)
-
-## Design files
-* [EpaperTeensyBoard.sch](https://cdn.hackaday.io/files/13327570182368/EpaperTeensyBoard.sch)
-* [EpaperTeensyBoard.brd](https://cdn.hackaday.io/files/13327570182368/EpaperTeensyBoard.brd)
-
+ 
 ## Images
 * [images dir](/images)
-
-## Video
-* [YouTube: Teensy E-Paper Shield](https://www.youtube.com/watch?v=xAe1GGP35UQ)
-
 
 
 # Accelerometer
 
-https://github.com/mwilliams03/Raspberry-Gyro-Acc
-
-http://ozzmaker.com/berryimu/
+http://wiki.seeedstudio.com/Grove-3-Axis_Digital_Accelerometer-1.5g/
 
 # Screen
 
-https://github.com/mwilliams03/Raspberry-Gyro-Acc
-
-http://ozzmaker.com/berryimu/
+https://store.arduino.cc/arduino-lcd-screen
 
 # Arduino micro
 
-https://github.com/mwilliams03/Raspberry-Gyro-Acc
-
-http://ozzmaker.com/berryimu/
+https://store.arduino.cc/arduino-micro
 
 # Battery
 
-https://github.com/mwilliams03/Raspberry-Gyro-Acc
-
-http://ozzmaker.com/berryimu/
+https://www.amazon.com/Dromida-3-7V-350mAh-Battery-Camera-Quadcopter/dp/B01MT3M525
 
 
 # Schematic
