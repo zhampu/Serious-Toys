@@ -1,35 +1,35 @@
 
-# Raspberry Pi I2C
+# Serious Toys
+Trophy design by Carla Marceau (https://portfolio) & Juan Gomez (https://juangomez.co)
+ > Play as a way to (re)create memories of a successful and gratifying moment. Playfulness can help human memory now days give back the feeling or sensation that one has lived before.
+The winners of GSGS 2018  will be awarded a trophy which they can interact daily as well as hack it from the inside to make it their own.
+The trophy will take shape as a totem which users can play with and not only put as a decoration. The modularity of its pieces creates an infinite combination of shapes for creating a new object every time the winner interacts with it.
 
-https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial
+[![photo of assembled board](images/teensy-epaper-shield-small.png)](https://oshpark.com/shared_projects/3KynIVn6)
 
-http://www.instructables.com/id/Raspberry-Pi-ADXL345-3-Axis-Accelerometer-Python-T/
+## OSH Park Shared Project
+* [Teensy e-Paper shield](https://oshpark.com/shared_projects/3KynIVn6)
 
-https://www.youtube.com/watch?v=yBkpHWGLnzA
+[![PCB preview](images/small-pcb-top-bottom.png)](https://oshpark.com/shared_projects/3KynIVn6)
 
-https://www.raspberrypi.org/forums/viewtopic.php?t=126045
+## Blog posts
+* [Teensy E-Paper shield](https://blog.oshpark.com/2016/08/27/teensy-e-paper-shield/)
+* [Teensy E-Paper shield update](https://blog.oshpark.com/2016/09/07/teensy-e-paper-shield-update/)
 
-http://www.instructables.com/id/3-Axis-Accelerometer-ADXL345-With-Raspberry-Pi-Usi/
+## Hackaday.io project
+* [Teensy E-Paper Adapter Board](https://hackaday.io/project/13327-teensy-e-paper-adapter-board)
+
+## Design files
+* [EpaperTeensyBoard.sch](https://cdn.hackaday.io/files/13327570182368/EpaperTeensyBoard.sch)
+* [EpaperTeensyBoard.brd](https://cdn.hackaday.io/files/13327570182368/EpaperTeensyBoard.brd)
+
+## Images
+* [images dir](/images)
+
+## Video
+* [YouTube: Teensy E-Paper Shield](https://www.youtube.com/watch?v=xAe1GGP35UQ)
 
 
-
-# Sense Hat
-
-https://www.pi-shop.ch/raspberry-pi-sense-hat?src=raspberrypi
-
-https://projects.raspberrypi.org/en/projects/sense-hat-pong/11
-
-https://www.raspberrypi.org/products/sense-hat/
-
-https://buyzero.de/products/raspberry-pi-sense-hat-lage-druck-feuchtigkeits-und-temperatursensoren?src=raspberrypi
-
-http://wiringpi.com/
-
-# Grove Pi
-
-https://github.com/DexterInd/GrovePi/
-
-https://www.dexterindustries.com/GrovePi/supported-sensors/
 
 # Accelerometer
 
@@ -37,10 +37,27 @@ https://github.com/mwilliams03/Raspberry-Gyro-Acc
 
 http://ozzmaker.com/berryimu/
 
-# Buy screen, accelerometer and Raspberry
+# Screen
 
-https://www.pi-shop.ch/display
+https://github.com/mwilliams03/Raspberry-Gyro-Acc
 
-https://www.wish.com/product/59a689f343101a4033eec5c5
+http://ozzmaker.com/berryimu/
 
-https://www.distrelec.ch/en/tft-lcd-touch-display-kit-raspberry-pi-raspberry-pi-7td/p/30037316?q=raspberry+pi+screen&page=17&origPos=17&origPageSize=25&simi=87.05
+# Arduino micro
+
+https://github.com/mwilliams03/Raspberry-Gyro-Acc
+
+http://ozzmaker.com/berryimu/
+
+# Battery
+
+https://github.com/mwilliams03/Raspberry-Gyro-Acc
+
+http://ozzmaker.com/berryimu/
+
+
+# Schematic
+
+[![photo of assembled board](images/teensy-epaper-shield-small.png)](https://oshpark.com/shared_projects/3KynIVn6)
+
+
